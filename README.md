@@ -1,4 +1,4 @@
-# cinema-room
+# Cinema Room
 
 ### This project was a good opportunity to work with input and output in Kotlin. It also helped with learnig lists, functions, loops, conditional statements, exeptions and as well as writing a clean code.
 ##
@@ -11,6 +11,7 @@
 ### By entering 1 user can see where his bought seat is. 
 ### By entering 2 user can buy another seat and by entering 3 user can see statics.
 ### By entering 0 application shuts down.
+<img alt="Cinema room manager" src=""/>
 
 <hr>
 <img align="left" alt="Kotlin" width="" src="https://github.com/puhacinboris/puhacinboris/blob/main/kotlin.png" />

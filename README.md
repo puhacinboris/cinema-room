@@ -1,7 +1,7 @@
 # cinema-room
 
-This project was a good opportunity to work with input and output in Kotlin. It also hepls with learnig lists, functions, loops, conditional statements, exeptions and as well as writing a clean code.
-Project prompts user to create cinema room by entering number of rows and seats.
+### This project was a good opportunity to work with input and output in Kotlin. It also hepls with learnig lists, functions, loops, conditional statements, exeptions and as well as writing a clean code.
+### Project prompts user to create cinema room by entering number of rows and seats.
 After that a menu will be shown to the user. 
 By entering option 1 user can see how the seating arrangements in cinema look like.
 By entering option 2 user can buy a ticket. Depending on the size of cinema ticket can cost $10 or $8.

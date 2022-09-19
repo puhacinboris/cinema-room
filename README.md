@@ -1,7 +1,7 @@
 # Cinema Room Manager
 
 ### This project was a good opportunity to work with input and output in Kotlin. It also helped with learnig lists, functions, loops, conditional statements, exeptions and as well as writing a clean code.
-##
+
 # About project
 ### Application prompts user to create cinema room by entering number of rows and seats.
 ### After that a menu will be shown to the user. There is three options. 
@@ -14,6 +14,6 @@
 ### By entering 0 application shuts down.
 <img alt="Cinema room manager" src="https://github.com/puhacinboris/cinema-room/blob/main/cinema.gif"/>
 
-<hr>
+##
 <img align="left" alt="Kotlin" width="" src="https://github.com/puhacinboris/puhacinboris/blob/main/kotlin.png" />
 <img align="left" alt="InteliJ" width="" src="https://github.com/puhacinboris/puhacinboris/blob/main/intellij-idea.png" />
